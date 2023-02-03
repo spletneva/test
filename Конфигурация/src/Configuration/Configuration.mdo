@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="551899c7-9d33-4a8f-a128-fc450f00f8cf">
-  <name>Конфигурация</name>
+  <name>ТестЕДТиГИТ</name>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="dc998850-8168-441f-bfdf-03dcbe02063e"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="683bbbcd-a883-4dab-b34b-cc81beada85e"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="7b3b2a6d-9301-4f90-9138-6bc4f03a5980"/>
